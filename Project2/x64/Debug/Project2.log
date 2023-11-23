@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\86136\Desktop\1.0\Project2\FileName.cpp(318,5): warning C4551: 缺少参数列表的函数调用
+C:\Users\86136\Desktop\1.0\Project2\FileName.cpp(881,31): warning C4244: “参数”: 从“wchar_t”转换到“TCHAR”，可能丢失数据
+C:\Users\86136\Desktop\1.0\Project2\FileName.cpp(430): warning C4715: “islose”: 不是所有的控件路径都返回值
+C:\Users\86136\Desktop\1.0\Project2\FileName.cpp(567): warning C4715: “palayermove”: 不是所有的控件路径都返回值
+  Project2.vcxproj -> C:\Users\86136\Desktop\1.0\x64\Debug\Project2.exe
